@@ -1,5 +1,5 @@
 # GameControls
-This project is controlling the WASD keys using image key points. To demonstrate the usage, an unblocked Chrome extensions Parking Fury 3 is used. 
+This project is controlling the WASD keys using image key points. To demonstrate the usage, an unblocked Chrome extensions Parking Fury 3 game is used. 
 
 <img src="https://github.com/vijayjc2018/GameControls/blob/master/Screenshot/Screesnhot.PNG" />
 
