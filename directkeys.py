@@ -2,7 +2,6 @@
 """
 Created on Thu Jul 16 11:01:20 2020
 @author: Vijay Jayachandran
-Reference: pythonprogramming
 """
 
 import ctypes
